@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reversestring.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Mena/Testing.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Mena/Testing.js/issues"
+  },
+  "homepage": "https://github.com/Kevin-Mena/Testing.js#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
